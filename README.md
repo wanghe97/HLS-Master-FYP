@@ -3,7 +3,7 @@ This is my MSc FYP.
 
 It explored the effect of compiler optimizations on area and speed of HLS-generated hardware.  
 
-The benchmark used is Polybench, which is provided in **[polybench-syn](https://github.com/ymherklotz/vericert/benchmarks/polybench-syn.git)**.  
+The benchmark used is Polybench, which is provided in **[benchmarks/polybench-syn](https://github.com/ymherklotz/vericert.git)**.  
 
 It uses two academic HLS tools: [Bambu](https://github.com/ferrandi/PandA-bambu.git) and [Vericert](https://github.com/ymherklotz/vericert.git).  
 
