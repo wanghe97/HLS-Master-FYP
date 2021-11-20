@@ -5,7 +5,7 @@ It explored the effect of compiler optimizations on area and speed of HLS-genera
 
 The benchmark used is Polybench, which is provided in **polybench-syn**.  
 
-It uses two academic HLS tools: Bambu and Vericert.  
+It uses two academic HLS tools: [Bambu](https://github.com/ferrandi/PandA-bambu.git) and [Vericert](https://github.com/ymherklotz/vericert.git).  
 
 The shell script for Bambu is named '**bambu15.sh**', and the shell script for Vericert is named '**vericert2.sh**'. 
 
